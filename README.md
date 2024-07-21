@@ -26,6 +26,7 @@ This project aims to enhance the safety of coastal and harbour ferries using IoT
 - 1 x MPU Sensor (e.g., MPU-6050)
 - 1 x Buzzer
 - Breadboard and connecting wires
+- 2 x LED (Red And Green)
 
 ### Software Requirements
 
