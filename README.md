@@ -18,8 +18,6 @@ This project aims to enhance the safety of coastal and harbour ferries using IoT
 - **Accurate Calculations**: Utilizes the Kalman filter for precise sensor fusion.
 - **Safety Alerts**: Buzzer alerts the crew when the roll angle exceeds the threshold.
 
-## Installation and Setup
-
 ### Hardware Requirements
 
 - 2 x ESP8266 Modules
