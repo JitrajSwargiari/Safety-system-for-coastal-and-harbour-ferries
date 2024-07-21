@@ -39,9 +39,13 @@ This project aims to enhance the safety of coastal and harbour ferries using IoT
 - **Real-time Monitoring**: Continuously monitor the roll angle of the ferry.
 - **Safety Alerts**: Receive immediate alerts if the roll angle exceeds the safe threshold.
 
+- ![Screenshot 2024-07-16 124518](https://github.com/user-attachments/assets/09df9461-70b2-4851-9944-1c8e14397150)
+![Screenshot 2024-07-16 123907](https://github.com/user-attachments/assets/72fae526-53b5-4cdc-901d-e05b967c360b)
+
+
 ## Contact
 
-For questions or feedback, please open an issue on GitHub or reach out to us at [email@example.com].
+For questions or feedback, please open an issue on GitHub or reach out to us at [swargiarijitraj@gmail.com].
 
 ---
 
