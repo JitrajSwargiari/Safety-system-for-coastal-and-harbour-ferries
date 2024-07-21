@@ -3,10 +3,10 @@
 #include <Kalman.h>
 #include <ESP8266WiFi.h>
 
-#define ssid  "Redmi Note 12 Pro 5G"
-#define pwsd  "8ece21039"
+#define ssid  ""
+#define pwsd  ""
 const int httpPort = 80;
-const char* host = "192.168.85.215";  // Server IP address
+const char* host = "";  // Server IP address
 
 // Create instances for Kalman filter
 Kalman kalmanRoll;
